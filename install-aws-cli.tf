@@ -16,6 +16,3 @@ EOH
     topic_arn = var.topic_arn
   }
 }
-
-
-  }
