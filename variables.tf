@@ -14,9 +14,3 @@ variable "return_subscription_arn" {
   default     = false
 }
 
-variable "install_aws_cli" {
-  default     = false
-  description = "Installs the AWS CLI module-local. AWS CLI is required to run this module."
-  type        = bool
-}
-
